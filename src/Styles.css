@@ -1,0 +1,14 @@
+.App {
+  padding: 20px;
+}
+
+.posts-list .post {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.button {
+  margin-top: 5px;
+  cursor: pointer;
+}
